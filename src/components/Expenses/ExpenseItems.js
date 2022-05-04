@@ -13,5 +13,5 @@ const ExpenseItem = (props) => {
     </div>
   );
 }
-
+ 
 export default ExpenseItem;
